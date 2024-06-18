@@ -1,3 +1,4 @@
+![logo](https://github.com/Samikhan-debug/Samikhan-debug/blob/main/poster.png)
 <h1 align="center">Hi 👋, I'm Sami Khan</h1>
 <h3 align="center">"An enthusiastic and innovative frontend developer from Pakistan, dedicated to crafting exceptional user experiences."</h3>
 
